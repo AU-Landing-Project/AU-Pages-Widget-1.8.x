@@ -8,8 +8,6 @@ $widget = $vars['entity'];
 
 // now we can get our content
 $options = eligo_get_display_entities_options($widget);
-$content = elgg_list_entities($options);
-
 
 $content = elgg_list_entities($options);
 
