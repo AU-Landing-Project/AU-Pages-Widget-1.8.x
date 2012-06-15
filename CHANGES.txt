@@ -3,10 +3,6 @@
 x.x:
 
 
-1.2 (06/15/2012):
-
- - Added context-aware add-content link
-
-1.1 (06/14/2012):
+1.1 (06/15/2012):
 
  - Added 'add content' link to widget 
