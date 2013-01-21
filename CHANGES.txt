@@ -2,6 +2,9 @@
 
 x.x:
 
+1.4 (01/21/2013):
+ - removes 'all' context keyword
+
 1.3 (09/09/2012):
  - Fixes invalid 'more' link on group widget
 
